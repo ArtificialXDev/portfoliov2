@@ -96,7 +96,7 @@ This script is ideal for users who:
 
 *  **Download & run the script:**
     ```bash
-    curl -sSL https://artificialx.dev/scripts/arch-postinstall.fish
+    curl -sSL https://artificialx.dev/scripts/arch-postinstall.fish | fish
     ```
 
 
